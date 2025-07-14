@@ -51,7 +51,7 @@ namespace ExcelProcessor.UI
             this.SuspendLayout();
 
             // Form
-            this.Text = "Excel Processor";
+            this.Text = "Último CR Operacional VIX Logística";
             this.Size = new Size(800, 600);
             this.StartPosition = FormStartPosition.CenterScreen;
             this.MinimumSize = new Size(600, 500);
